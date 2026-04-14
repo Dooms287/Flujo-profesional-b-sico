@@ -1,2 +1,7 @@
-# Flujo-profesional-b-sico
-Uso de Librerías Externas en Python
+# Analizador con Pandas
+
+Estudiante: Domenica Hidalgo
+
+Librería: pandas
+
+Funciona para analizar datos de un CSV y sacar promedio, máximo y mínimo.
